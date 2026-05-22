@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mock-pwm-rules-2016",
+    "title": "Mock Plastic Waste Management Rules, 2016 - EPR Duties",
+    "source_note": "Fabricated training document based on common concepts in India's Plastic Waste Management Rules.",
+    "sections": [
+      {
+        "heading": "Producer Responsibility",
+        "text": "A producer, importer, or brand owner that introduces plastic packaging into the market must arrange for collection, recycling, reuse, or end-of-life disposal of equivalent plastic packaging waste under Extended Producer Responsibility. The producer should keep auditable records of plastic packaging placed on the market, procurement records, and evidence of recycling or processing."
+      },
+      {
+        "heading": "Registration",
+        "text": "A producer operating in more than one state should obtain EPR registration through the central authority portal before placing covered plastic packaging on the market. The registration details should be kept current when the producer changes products, packaging types, locations, or authorized persons."
+      }
+    ]
+  },
+  {
+    "id": "mock-epr-guidelines-2022",
+    "title": "Mock EPR Guidelines for Plastic Packaging, 2022",
+    "source_note": "Fabricated training document inspired by CPCB-style EPR guidance for plastic packaging.",
+    "sections": [
+      {
+        "heading": "Plastic Packaging Categories",
+        "text": "EPR reporting separates plastic packaging into categories such as rigid plastic packaging, flexible plastic packaging, and multilayered plastic packaging. Declarations should use consistent category names across procurement, production, sales, and recycling evidence so that monthly and annual reconciliation is traceable."
+      },
+      {
+        "heading": "Annual Targets and Certificates",
+        "text": "A producer should meet EPR obligations by obtaining valid recycling, reuse, or end-of-life disposal evidence for the applicable plastic packaging category. Certificates or processor acknowledgements should be mapped to the same category and period as the producer's declared obligation."
+      }
+    ]
+  },
+  {
+    "id": "mock-greenpack-sop-2026",
+    "title": "GreenPack Internal Monthly EPR Reconciliation SOP",
+    "source_note": "Fabricated internal compliance SOP for this assignment.",
+    "sections": [
+      {
+        "heading": "Monthly Declaration Review",
+        "text": "The compliance officer should compare the monthly EPR declaration with ERP procurement records before submission. Any category variance greater than five percent should be investigated using purchase invoices, goods receipt notes, production consumption, opening stock, closing stock, and sales dispatch records."
+      },
+      {
+        "heading": "Evidence Retention",
+        "text": "GreenPack should retain the submitted declaration, ERP extract, reconciliation worksheet, variance explanations, and supporting invoices for audit. Records should identify the producer id, month, plastic category, quantity in kilograms, reviewer, and date of review."
+      }
+    ]
+  },
+  {
+    "id": "mock-audit-guide-2026",
+    "title": "Mock Plastic Packaging Audit Checklist",
+    "source_note": "Fabricated audit checklist for demonstration.",
+    "sections": [
+      {
+        "heading": "Data Quality Checks",
+        "text": "Monthly EPR data should be checked for missing producer identifiers, invalid reporting months, negative quantities, unsupported plastic categories, and category mismatches between declarations and ERP records. Deterministic validation should be completed before any narrative summary is generated."
+      },
+      {
+        "heading": "Unanswered Questions",
+        "text": "When a compliance question cannot be answered from the approved policy corpus, the system should say that it does not know based on the provided documents. The officer should then consult the official legal text or the regulator before acting."
+      }
+    ]
+  }
+]
